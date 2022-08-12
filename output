@@ -1,0 +1,24 @@
+.
+├── 0x00-pascal_triangle
+│   ├── 0-pascal_triangle.py
+│   └── README.md
+├── 0x01-lockboxes
+│   ├── 0-lockboxes.py
+│   ├── lockboxes.js
+│   └── README.md
+├── 0x02-minimum_operations
+│   ├── 0-minoperations.py
+│   ├── README.md
+│   └── test_0_minoperations.txt
+├── 0x03-log_parsing
+│   ├── 0-generator.py
+│   ├── 0-stats.py
+│   └── README.md
+├── 0x04-utf8_validation
+│   ├── 0-validate_utf8.py
+│   ├── 0-validate_utf8_test.txt
+│   └── README.md
+├── output
+└── README.md
+
+5 directories, 16 files
